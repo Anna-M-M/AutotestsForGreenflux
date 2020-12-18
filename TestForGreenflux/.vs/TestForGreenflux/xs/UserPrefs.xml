@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{62C912CE-74CD-4316-B9A7-8C126DAF18EE}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AUthorizationTest.cs">
+    <Files>
+      <File FileName="Test.cs" Line="19" Column="19" />
+      <File FileName="TynamicControlTest.cs" Line="12" Column="40" />
+      <File FileName="TablesTest.cs" Line="31" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestForGreenflux" expanded="True">
+            <Node name="TestForGreenflux" expanded="True">
+              <Node name="AuthorizationTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TestForGreenflux" expanded="True">
+            <Node name="TestForGreenflux" expanded="True">
+              <Node name="AuthorizationTests" expanded="True">
+                <Node name="Test" expanded="True" />
+              </Node>
+              <Node name="DynamicControlTests" expanded="True">
+                <Node name="Test" expanded="True" />
+              </Node>
+              <Node name="TableTests" expanded="True" selected="True">
+                <Node name="Test" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestForGreenflux PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
