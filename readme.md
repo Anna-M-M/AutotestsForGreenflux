@@ -1,4 +1,4 @@
-# Run project
+# Web UI tests using C#
 ## Prerequisites
 - have Visual Studio installed
 - have Selenium web driver installed (you can follow [this guide](https://saucelabs.com/resources/articles/getting-started-with-webdriver-in-c-using-visual-studio))
